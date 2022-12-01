@@ -1,8 +1,6 @@
-## section 1
-- 👋 Hi, I’m @wsup-mike
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+## 👋 Hi, I’m Mike
+- 
+
 
 
 
