@@ -10,5 +10,5 @@
 ## How to reach me...
 michaelangeloram8@gmail.com
 <br>
-[linkedin.com/in/wsupmike/](https://www.linkedin.com/in/wsupmike/)
+[My LinkedIn](https://www.linkedin.com/in/wsupmike/)
 
