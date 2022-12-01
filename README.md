@@ -9,5 +9,6 @@
 
 ## How to reach me...
 michaelangeloram8@gmail.com
+<a href="[linkedin.com/in/wsupmike/](https://www.linkedin.com/in/wsupmike/)">
 linkedin.com/in/wsupmike/
-
+</a>
