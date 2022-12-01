@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Mike
-- 
+I am a mobile engineer developing cross-platform iOS and Android apps using React Native.
 
 
 
